@@ -6,5 +6,7 @@
         dataMahasiswa.ReadJSON();
         TeamMembers10302230017 teamMembers = new TeamMembers10302230017();
         teamMembers.ReadJSON();
+        GlossaryItem103022300017 glossaryItem = new GlossaryItem103022300017();
+        glossaryItem.ReadJSON();
     }
 }
