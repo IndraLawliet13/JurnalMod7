@@ -16,6 +16,14 @@
     </None>
     <None Update="jurnal7_3_103022300027.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    <None Update="jurnal7_1_103022300017.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="jurnal7_2_103022300017.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="jurnal7_3_103022300017.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 
