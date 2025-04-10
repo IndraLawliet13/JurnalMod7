@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace JurnalMod7
+class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            
-            GlossaryItem103022300017.ReadJSON();
-        }
+        TeamMembers103022300002 team = new TeamMembers103022300002();
+        team.ReadJSON();
+
+        Console.WriteLine("\nTekan tombol apa saja untuk keluar...");
+        Console.ReadKey();
     }
 }
