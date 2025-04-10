@@ -1,0 +1,16 @@
+{
+   "firstName": "April ",
+   "lastName": "Hardinata",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Sukabirus",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK2FA", "name": "ARSITEKTUR DAN DESAIN PERANGKAT LUNAK" },
+       { "code": "CCK2HAB4", "name": "Basis Data"}
+   ]
+}
