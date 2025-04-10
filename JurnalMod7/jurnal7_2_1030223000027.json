@@ -1,0 +1,40 @@
+{
+  "members": [
+    {
+      "firstName": "Indra Yuda",
+      "lastName": "Adi Saputra",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300017"
+    },
+    {
+      "firstName": "April",
+      "lastName": "Hardinata",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300027"
+    },
+    {
+      "firstName": "Azwa",
+      "lastName": "Radya",
+      "gender": "Male",
+      "age": 19,
+      "nim": "103022300023"
+    },
+    {
+      "firstName": "Andreas Christian ",
+      "lastName": "Firga ",
+      "gender": "Male",
+      "age": 19,
+      "nim": "103022300003"
+    },
+    {
+      "firstName": "Emillio Syailendra  ",
+      "lastName": "Wijaya ",
+      "gender": "Male",
+      "age": 20,
+      "nim": "103022330124"
+    }
+
+  ]
+}
