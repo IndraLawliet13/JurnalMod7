@@ -1,13 +1,14 @@
-﻿using System;
+﻿using JurnalMod7;
 
-class Program
+public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        TeamMembers103022300002 team = new TeamMembers103022300002();
-        team.ReadJSON();
-
-        Console.WriteLine("\nTekan tombol apa saja untuk keluar...");
-        Console.ReadKey();
+        DataMahasiswaAndreasChristianFirga dataMahasiswa = new DataMahasiswaAndreasChristianFirga();
+        dataMahasiswa.ReadJSON();
+        TeamMembers103022300002 teamMembers = new TeamMembers103022300002();
+        teamMembers.ReadJSON();
+        GlossaryItem103022300002 glossaryItem = new GlossaryItem103022300002();
+        glossaryItem.ReadJSON();
     }
 }
