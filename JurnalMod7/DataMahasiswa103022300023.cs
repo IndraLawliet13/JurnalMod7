@@ -34,7 +34,7 @@ namespace JurnalMod7
     }
     public class DataMahasiswa103022300023
     {
-        public void readJSON()
+        public void ReadJSON()
         {
             string jsonName = "jurnal7_1_103022300023.json";
             try
