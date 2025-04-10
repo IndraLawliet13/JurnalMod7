@@ -6,8 +6,8 @@ namespace JurnalMod7
     {
         static void Main(string[] args)
         {
-            var data = new DataMahasiswaAndreasChristianFirga();
-            data.ReadJSON();
+            
+            GlossaryItem103022300017.ReadJSON();
         }
     }
 }
